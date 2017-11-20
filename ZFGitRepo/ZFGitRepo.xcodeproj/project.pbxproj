@@ -13,6 +13,7 @@
 		18A91AAC1FC2BD9B00F9E350 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18A91AAB1FC2BD9B00F9E350 /* Assets.xcassets */; };
 		18A91AAF1FC2BD9B00F9E350 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18A91AAD1FC2BD9B00F9E350 /* LaunchScreen.storyboard */; };
 		18A91AB21FC2BD9B00F9E350 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18A91AB11FC2BD9B00F9E350 /* main.m */; };
+		18A91ABA1FC2CADA00F9E350 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 18A91AB91FC2CADA00F9E350 /* Person.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		18A91AAE1FC2BD9B00F9E350 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18A91AB01FC2BD9B00F9E350 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		18A91AB11FC2BD9B00F9E350 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		18A91AB81FC2CADA00F9E350 /* Person.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
+		18A91AB91FC2CADA00F9E350 /* Person.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				18A91AA31FC2BD9B00F9E350 /* AppDelegate.m */,
 				18A91AA51FC2BD9B00F9E350 /* ViewController.h */,
 				18A91AA61FC2BD9B00F9E350 /* ViewController.m */,
+				18A91AB81FC2CADA00F9E350 /* Person.h */,
+				18A91AB91FC2CADA00F9E350 /* Person.m */,
 				18A91AA81FC2BD9B00F9E350 /* Main.storyboard */,
 				18A91AAB1FC2BD9B00F9E350 /* Assets.xcassets */,
 				18A91AAD1FC2BD9B00F9E350 /* LaunchScreen.storyboard */,
@@ -144,6 +149,7 @@
 			files = (
 				18A91AA71FC2BD9B00F9E350 /* ViewController.m in Sources */,
 				18A91AB21FC2BD9B00F9E350 /* main.m in Sources */,
+				18A91ABA1FC2CADA00F9E350 /* Person.m in Sources */,
 				18A91AA41FC2BD9B00F9E350 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
