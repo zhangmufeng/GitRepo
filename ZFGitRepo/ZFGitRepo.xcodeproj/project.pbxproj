@@ -14,6 +14,7 @@
 		18A91AAF1FC2BD9B00F9E350 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18A91AAD1FC2BD9B00F9E350 /* LaunchScreen.storyboard */; };
 		18A91AB21FC2BD9B00F9E350 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18A91AB11FC2BD9B00F9E350 /* main.m */; };
 		18A91ABA1FC2CADA00F9E350 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 18A91AB91FC2CADA00F9E350 /* Person.m */; };
+		18A91ABD1FC2D32900F9E350 /* ZFPerson.m in Sources */ = {isa = PBXBuildFile; fileRef = 18A91ABC1FC2D32900F9E350 /* ZFPerson.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		18A91AB11FC2BD9B00F9E350 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		18A91AB81FC2CADA00F9E350 /* Person.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
 		18A91AB91FC2CADA00F9E350 /* Person.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
+		18A91ABB1FC2D32900F9E350 /* ZFPerson.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZFPerson.h; sourceTree = "<group>"; };
+		18A91ABC1FC2D32900F9E350 /* ZFPerson.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZFPerson.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				18A91AA61FC2BD9B00F9E350 /* ViewController.m */,
 				18A91AB81FC2CADA00F9E350 /* Person.h */,
 				18A91AB91FC2CADA00F9E350 /* Person.m */,
+				18A91ABB1FC2D32900F9E350 /* ZFPerson.h */,
+				18A91ABC1FC2D32900F9E350 /* ZFPerson.m */,
 				18A91AA81FC2BD9B00F9E350 /* Main.storyboard */,
 				18A91AAB1FC2BD9B00F9E350 /* Assets.xcassets */,
 				18A91AAD1FC2BD9B00F9E350 /* LaunchScreen.storyboard */,
@@ -147,6 +152,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18A91ABD1FC2D32900F9E350 /* ZFPerson.m in Sources */,
 				18A91AA71FC2BD9B00F9E350 /* ViewController.m in Sources */,
 				18A91AB21FC2BD9B00F9E350 /* main.m in Sources */,
 				18A91ABA1FC2CADA00F9E350 /* Person.m in Sources */,
